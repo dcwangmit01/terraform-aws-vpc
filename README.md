@@ -35,3 +35,7 @@ terraform apply
 # Remove all resources
 terraform destroy
 ```
+
+## License
+
+MIT License
